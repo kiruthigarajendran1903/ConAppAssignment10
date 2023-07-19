@@ -1,0 +1,8 @@
+D:\ConAppAssignment10\ConAppAssignment10\bin\Debug\ConAppAssignment10.exe.config
+D:\ConAppAssignment10\ConAppAssignment10\bin\Debug\ConAppAssignment10.exe
+D:\ConAppAssignment10\ConAppAssignment10\bin\Debug\ConAppAssignment10.pdb
+D:\ConAppAssignment10\ConAppAssignment10\obj\Debug\ConAppAssignment10.csproj.AssemblyReference.cache
+D:\ConAppAssignment10\ConAppAssignment10\obj\Debug\ConAppAssignment10.csproj.SuggestedBindingRedirects.cache
+D:\ConAppAssignment10\ConAppAssignment10\obj\Debug\ConAppAssignment10.csproj.CoreCompileInputs.cache
+D:\ConAppAssignment10\ConAppAssignment10\obj\Debug\ConAppAssignment10.exe
+D:\ConAppAssignment10\ConAppAssignment10\obj\Debug\ConAppAssignment10.pdb
